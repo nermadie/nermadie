@@ -1,7 +1,7 @@
 ## WELCOME TO MY PAGE 👋👋👋
 My name is Nhat Minh Tran. I am a College Student at Da Nang University of Science and Technology.
 
-<h3>I am interested in the following topics:</h3>
+<h3>I am interested in:</h3>
 
   <div>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
