@@ -1,7 +1,7 @@
 ## WELCOME TO MY PAGE 👋👋👋
 My name is Nhat Minh Tran. I am a College Student at Da Nang University of Science and Technology.
 
-<div style="display: flex;align-items: center;justify-content: center;">
+<div style="display: flex;align-items: center;justify-content: center;flex-direction:column">
   <div style="display: inline;">
     <h3>I am interested in the following topics:</h3>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
@@ -21,7 +21,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
     </picture>
   </div>
 </div>
-## 📫 How to reach me: 
+<h3>📫 How to reach me:</h3> 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
