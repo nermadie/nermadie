@@ -2,6 +2,7 @@
 My name is Nhat Minh Tran. I am a College Student at Da Nang University of Science and Technology.
 
 <h3>I am interested in the following topics:</h3>
+<div>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server badge">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET badge">
@@ -12,6 +13,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown badge">
+</div>
 
 <h3>My github stats</h3>
 <picture>
@@ -19,6 +21,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
 </picture>
 
 <h3>📫 How to reach me:</h3>
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
 <a href="https://github.com/uvipen/QuickDraw/">
