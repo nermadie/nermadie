@@ -21,7 +21,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
         <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
       </picture>
       <picture>
-        <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true" />
+        <img alt= "stats card" align=top src="https://github-readme-stats.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true" />
       </picture>
   </div>
 
