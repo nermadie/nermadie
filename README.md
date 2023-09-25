@@ -1,7 +1,7 @@
 ## WELCOME TO MY PAGE 👋👋👋
 My name is Nhat Minh Tran. I am a College Student at Da Nang University of Science and Technology.
 
-<h3>I am interested in:</h3>
+<h3>😍I am interested in:</h3>
 
   <div>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
@@ -16,7 +16,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown badge">
   </div>
   <div >
-    <h3>My github stats:</h3>
+    <h3>📃My github stats:</h3>
     <picture>
       <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
     </picture>
@@ -29,6 +29,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
+<h3>Data Science Project:</h3>
 <a href="https://github.com/uvipen/QuickDraw/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>    
@@ -43,6 +44,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
 </a>
 
+<h3>AI Project:</h3>
 <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
 </a>    
@@ -71,6 +73,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=SSD-pytorch&theme=gruvbox" />
 </a>
 
+<h3>Machine Learning, Deep Learning Project:</h3>
 <a href="https://github.com/uvipen/Contra-PPO-pytorch/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Contra-PPO-pytorch&theme=dark" />
 </a>    
