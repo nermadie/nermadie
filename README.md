@@ -26,7 +26,7 @@ I am interested in the following topics:<br>
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light)"
   /> -->
-  <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
   </picture>
   </div>
 </div>
