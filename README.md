@@ -1,5 +1,5 @@
 ## WELCOME TO MY PAGE 👋👋👋
-My name is Nhat Minh Tran🧑‍💻. I’m currently studying in 🏢DUT (Da Nang Universiy of Technologies - Viet Nam). 
+My name is Nhat Minh Tran☺. I’m currently studying in 🏢DUT (Da Nang Universiy of Technologies - Viet Nam). 
 <h3>😍I am interested in:</h3>
 <div>
   <img
@@ -49,7 +49,7 @@ My name is Nhat Minh Tran🧑‍💻. I’m currently studying in 🏢DUT (Da Na
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
-<h2>My Project:</h2>
+<h2>🧑‍💻My Project:</h2>
 <h3>• Data Science Project:</h3>
 <a href="https://github.com/uvipen/QuickDraw/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
@@ -60,7 +60,7 @@ My name is Nhat Minh Tran🧑‍💻. I’m currently studying in 🏢DUT (Da Na
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
-</a>    
+</a>   
 <a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
 </a>
