@@ -4,7 +4,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
 <h3>I am interested in the following topics:</h3>
 <section data-markdown>
   <textarea data-template>
-    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+    <div class="flex-container">
       <div>
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server badge">
