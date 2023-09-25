@@ -15,10 +15,10 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown badge">
   </div>
-  <div>
+  <div style="">
     <h3>My github stats:</h3>
       <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
+        <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
       </picture>
       <picture>
         <source
@@ -29,7 +29,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
           srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+        <img align=top src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
       </picture>
   </div>
 
