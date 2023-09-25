@@ -15,14 +15,14 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown badge">
   </div>
-  <div style="">
+  <div >
     <h3>My github stats:</h3>
-      <picture>
-        <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
-      </picture>
-      <picture>
-        <img alt= "stats card" align=top src="https://github-readme-stats.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true" />
-      </picture>
+    <picture>
+      <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
+    </picture>
+    <picture>
+      <img alt= "stats card" align=top src="https://github-readme-stats.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true" />
+    </picture>
   </div>
 
 <h3>📫 How to reach me:</h3>
