@@ -23,8 +23,8 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
 </div>
 <h3>📫 How to reach me:</h3> 
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
+<div>
+  <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
