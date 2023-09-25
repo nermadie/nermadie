@@ -1,8 +1,9 @@
 ## WELCOME TO MY PAGE 👋👋👋
 My name is Nhat Minh Tran. I am n College Student at Da Nang University of Science and Technology. 
 I am interested in the following topics:<br>
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div>
+<table>
+  <tr>
+  <td valign="top">  
   - :space_invader:
     ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -14,11 +15,12 @@ I am interested in the following topics:<br>
     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
     ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  </div>
-  <div>
+  </td>
+  <td valign="top">
     ![Minh Tran's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-  </div>
-</div>
+  </td>
+  </tr>
+</table>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
