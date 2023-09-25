@@ -30,15 +30,21 @@ My name is Nhat Minh Tran🧑‍💻. I’m currently studying in 🏢DUT (Da Na
     alt="Markdown badge" />
 </div>
 
-  <div align=center>
-    <h3>📃My github stats:</h3>
-    <picture>
-      <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
-    </picture>
-    <picture>
-      <img alt= "stats card" align=top src="https://github-readme-stats.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true&hide=issues,contribs" />
-    </picture>
-  </div>
+<h3>📃My github stats:</h3>
+<div align="center">
+  <picture>
+    <img
+      align="top"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
+  </picture>
+  <picture>
+    <img
+      alt="stats card"
+      align="top"
+      src="https://github-readme-stats.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true&hide=issues,contribs" />
+  </picture>
+</div>
+
 
 <h3>📫 How to reach me:</h3>
 
