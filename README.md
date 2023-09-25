@@ -3,17 +3,7 @@ My name is Nhat Minh Tran. I am n College Student at Da Nang University of Scien
 I am interested in the following topics:<br>
 <div style="display: flex;align-items: center;justify-content: center;">
   <div>  
-    <picture>
-<!--   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  /> -->
-<!--   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light)"
-  /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  </picture>
+   
   - :space_invader:
     ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -27,6 +17,17 @@ I am interested in the following topics:<br>
     ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   <div>
     ![Minh Tran's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+     <picture>
+<!--   <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  /> -->
+<!--   <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light)"
+  /> -->
+  <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)" />
+  </picture>
   </div>
 </div>
 ## 📫 How to reach me: 
