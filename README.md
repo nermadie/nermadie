@@ -1,7 +1,7 @@
 ## WELCOME TO MY PAGE 👋👋👋
 My name is Nhat Minh Tran. I am a College Student at Da Nang University of Science and Technology.
 
-<div class="flex-container">
+<div>
   <div>
     <h3>I am interested in the following topics:</h3>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
@@ -25,7 +25,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
 <h3>📫 How to reach me:</h3> 
 
 <div>
-  <div style="display: flex;">
+  <div class="flex-container">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
