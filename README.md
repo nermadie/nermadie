@@ -31,13 +31,13 @@ My name is Nhat Minh Tran🧑‍💻. I’m currently studying in 🏢DUT (Da Na
 </div>
 
 <h3>📃My github stats:</h3>
-<div align="center">
-  <picture>
+<div>
+  <picture align=left>
     <img
       align="top"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
   </picture>
-  <picture>
+  <picture align=right>
     <img
       alt="stats card"
       align="top"
