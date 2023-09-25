@@ -15,10 +15,10 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown badge">
 </div>
 
-<h3>My github stats</h3>
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
-</picture>
+  <h3>My github stats</h3>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
+  </picture>
 
 <h3>📫 How to reach me:</h3>
 
