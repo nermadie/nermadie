@@ -2,7 +2,7 @@
 My name is Nhat Minh Tran. I am a College Student at Da Nang University of Science and Technology.
 
 <div style="display: flex; align-items: flex-start;">
-  <div style="display: inline;">
+  <div>
     <h3>I am interested in the following topics:</h3>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server badge">
@@ -15,6 +15,7 @@ My name is Nhat Minh Tran. I am a College Student at Da Nang University of Scien
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown badge">
   </div>
+  <div>
     <h3>My github stats</h3>
     <picture>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
