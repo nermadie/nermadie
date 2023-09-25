@@ -1,5 +1,5 @@
 ## WELCOME TO MY PAGE 👋👋👋
-My name is Nhat Minh Tran. I am a College Student at Da Nang University of Science and Technology.
+My name is Nhat Minh Tran. I’m currently studying in DUT (Da Nang Universiy of Technologies - Viet Nam).
 
 <h3>😍I am interested in:</h3>
 
