@@ -30,6 +30,21 @@ My name is Nhat Minh Tran🧑‍💻. I’m currently studying in 🏢DUT (Da Na
     alt="Markdown badge" />
 </div>
 
+<h3>📃My github stats:</h3>
+<div>
+  <picture>
+    <img
+      align="top"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
+  </picture>
+  <picture>
+    <img
+      alt="stats card"
+      align="top"
+      src="https://github-readme-stats.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true&hide=issues,contribs" />
+  </picture>
+</div>
+
 <h3>📫 How to reach me:</h3>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
@@ -101,17 +116,3 @@ My name is Nhat Minh Tran🧑‍💻. I’m currently studying in 🏢DUT (Da Na
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
 </a>
 
-<h3>📃My github stats:</h3>
-<div>
-  <picture>
-    <img
-      align="top"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
-  </picture>
-  <picture>
-    <img
-      alt="stats card"
-      align="top"
-      src="https://github-readme-stats.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true&hide=issues,contribs" />
-  </picture>
-</div>
