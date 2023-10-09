@@ -25,6 +25,9 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
     src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
     alt="Flask badge" />
   <img
+    src="	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+    alt="Django badge" />
+  <img
     src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
     alt="TensorFlow badge" />
   <img
