@@ -53,7 +53,8 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
 <h2>🧑‍💻My Project:</h2>
-<h3>• Data Science Project:</h3>
+<h3>• Web Application:</h3>
+<h3>• Data Science:</h3>
 <a href="https://github.com/uvipen/QuickDraw/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>    
@@ -68,7 +69,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
 </a>
 
-<h3>• AI Project:</h3>
+<h3>• AI:</h3>
 <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
 </a>    
@@ -97,7 +98,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=SSD-pytorch&theme=gruvbox" />
 </a>
 
-<h3>• Machine Learning, Deep Learning Project:</h3>
+<h3>• Machine Learning, Deep Learning:</h3>
 <a href="https://github.com/uvipen/Contra-PPO-pytorch/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Contra-PPO-pytorch&theme=dark" />
 </a>    
