@@ -57,6 +57,12 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 <a href="https://github.com/nermadie/PBL5">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=PBL5&theme=highcontrast" />
 </a>
+<a href="https://github.com/nermadie/Resume_Sgroup">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Resume_Sgroup&theme=onedark" />
+</a>
+<a href="https://github.com/nermadie/Translator_API">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Translator_API&theme=cobalt" />
+</a>  
 <h3>• Data Science:</h3>
 <a href="https://github.com/uvipen/QuickDraw/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
