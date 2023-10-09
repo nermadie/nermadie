@@ -20,21 +20,21 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
     alt="Microsoft SQL Server badge" />
   <br />
   <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React badge" />
+  <img
+    src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React Native badge" />
+  <img
+    src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+    alt="Spring badge" />
+  <br />
+  <img
     src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
     alt="TensorFlow badge" />
   <img
     src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
     alt="PyTorch badge" />
-  <br />
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-    alt="Git badge" />
-  <img
-    src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub badge" />
-  <img
-    src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
-    alt="Markdown badge" />
 </div>
 
 <h3>📃My github stats:</h3>
