@@ -37,6 +37,9 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
   <img
     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL badge" />
+  <img
+    src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
+    alt="Sql Server badge" />
 </div>
 
 <h3>📃My github stats:</h3>
