@@ -67,6 +67,13 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 <a href="https://www.linkedin.com/in/tran-nhat-minh-bb94b6216">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<br/>
+<a href="https://www.hackerrank.com/nhatminh10b1">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/Minhkiao">
+  <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+</a>
 
 <h2>🧑‍💻My Project:</h2>
 <h3>• Web Application:</h3>
