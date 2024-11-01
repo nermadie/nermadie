@@ -1,4 +1,4 @@
-![ClipWindowsGIF](https://github.com/user-attachments/assets/c50f1cfd-06d6-44c5-a096-e93aeea150b8)## WELCOME TO MY PAGE 👋👋👋
+## WELCOME TO MY PAGE 👋👋👋
 My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Universiy of Technologies - Viet Nam). 
 <h3>😍I am interested in:</h3>
 <div>
@@ -76,7 +76,8 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 </a>
 
 <h2>🧑‍💻My Project:</h2>
-<h3>• ![WebDeveloperMycrxnGIF](https://github.com/user-attachments/assets/51478812-5d20-4ab7-84fc-bc214b3546ad) Web Application:</h3>
+<h3>• ![WebDeveloperMycrxnGIF](https://github.com/user-attachments/assets/51478812-5d20-4ab7-84fc-bc214b3546ad) 
+  Web Application:</h3>
 <a href="https://github.com/nermadie/PBL5">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=PBL5&theme=highcontrast" />
 </a>
