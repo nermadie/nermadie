@@ -109,7 +109,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=ASP_NET_Microservices&theme=shades-of-purple" /></a>
 <h4>3. NoSQL:</h4>
 <a href="https://github.com/nermadie/Neo4j">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Neo4j&theme=react " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Neo4j&theme=react" />
 </a>
 <a href="https://github.com/nermadie/Elastic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Elastic&theme=yeblu" />
@@ -143,13 +143,13 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 </a>
 <h4>2. NLP:</h4>
 <a href="https://github.com/NLP_General">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=NLP_General&theme=swift " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=NLP_General&theme=swift" />
 </a>
 <a href="https://github.com/Tranformers_BERT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Tranformers_BERT&theme=swift " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Tranformers_BERT&theme=swift" />
 </a>
 <a href="https://github.com/Recommendation-Systems">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Recommendation-Systems&theme=swift " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Recommendation-Systems&theme=swift" />
 </a>
 <h4>3. Image Processing:</h4>
 
