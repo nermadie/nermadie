@@ -1,5 +1,7 @@
 ## WELCOME TO MY PAGE 👋👋👋
-My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Universiy of Technologies - Viet Nam). 
+
+My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Universiy of Technologies - Viet Nam).
+
 <h3>😍I am interested in:</h3>
 <div>
   <img
@@ -76,7 +78,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 </a>
 
 <h2>🧑‍💻My Project:</h2>
-<h3>• Web Application:</h3>
+<h3>I. Web Application:</h3>
 <a href="https://github.com/nermadie/chat-app-with-firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=chat-app-with-firebase&theme=highcontrast" />
 </a>
@@ -85,75 +87,115 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 </a>
 <a href="https://github.com/nermadie/Translator_API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Translator_API&theme=cobalt" />
-</a> 
-<h4>• Frontend:</h4>
-<h4>• Backend:</h4>
-<h4>• NoSQL:</h4>
-<h3>• AI Application:</h3>
-<h4>• AI, Data Science:</h4>
-<a href="https://github.com/uvipen/QuickDraw/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=QuickDraw&theme=radical" />
-</a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=ASCII-generator&theme=merko" />
 </a>
-
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
-</a>   
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+<h4>1. Frontend:</h4>
+<a href="https://github.com/nermadie/Evondev_Course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Evondev_Course&theme=yeblu" />
 </a>
-
-<h4>• NLP:</h4>
-<a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
-</a>    
-<a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+<a href="https://github.com/nermadie/HTML_W3School">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=HTML_W3School&theme=monokai" />
 </a>
-
-<a href="https://github.com/uvipen/AirGesture/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=AirGesture&theme=synthwave" />
-</a>    
-<a href="https://github.com/uvipen/Yolo-v2-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Yolo-v2-pytorch&theme=highcontrast" />
+<h4>2. Backend:</h4>
+<a href="https://github.com/nermadie/NodeJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=NodeJS&theme=chartreuse-dark" />
 </a>
-
-<a href="https://github.com/uvipen/Hierarchical-attention-networks-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
-</a>    
-<a href="https://github.com/uvipen/Photomosaic-generator/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Photomosaic-generator&theme=radical" />
+<a href="https://github.com/nermadie/NestJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=NestJS&theme=radical" />
 </a>
-
-<a href="https://github.com/uvipen/Street-fighter-A3C-ICM-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Street-fighter-A3C-ICM-pytorch&theme=merko" />
-</a>    
-<a href="https://github.com/uvipen/SSD-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=SSD-pytorch&theme=gruvbox" />
+<a href="https://github.com/nermadie/ASP_NET">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=ASP_NET&theme=midnight-purple" />
 </a>
-
-<h4>• Image Processing:</h4>
-<a href="https://github.com/uvipen/Contra-PPO-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Contra-PPO-pytorch&theme=dark" />
-</a>    
-<a href="https://github.com/uvipen/Deeplab-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Deeplab-pytorch&theme=onedark" />
+<a href="https://github.com/nermadie/ASP_NET_Microservices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=ASP_NET_Microservices&theme=shades-of-purple" /></a>
+<h4>3. NoSQL:</h4>
+<a href="https://github.com/nermadie/Neo4j">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Neo4j&theme=react " />
 </a>
-
-<a href="https://github.com/uvipen/Character-level-cnn-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Character-level-cnn-pytorch&theme=cobalt" />
-</a>    
-<a href="https://github.com/uvipen/Character-level-cnn-tensorflow/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Character-level-cnn-tensorflow&theme=synthwave" />
+<a href="https://github.com/nermadie/Elastic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Elastic&theme=yeblu" />
 </a>
-
-<a href="https://github.com/uvipen/Very-deep-cnn-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
-</a>    
-<a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Very-deep-cnn-tensorflow&theme=dracula" />
+<a href="https://github.com/nermadie/MongoDB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=MongoDB&theme=merko" />
 </a>
-<h4>• Reinforcement Learning:</h4>
+<a href="https://github.com/nermadie/Redis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Redis&theme=monokai" />
+</a>
+<h4>4. DevOps & Infrastructure:</h4>
+<h3>II. AI Application:</h3>
+<h4>1. AI, Data Science, Analytics:</h4>
+<a href="https://github.com/DataPreprocessing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=DataPreprocessing&theme=darcula" />
+</a>
+<a href="https://github.com/WebScraping">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=WebScraping&theme=darcula" />
+</a>
+<a href="https://github.com/DataAnalysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=DataAnalysis&theme=darcula" />
+</a>
+<a href="https://github.com/Numpy_Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Numpy_Learning&theme=material-palenight" />
+</a>
+<a href="https://github.com/Pandas_Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Pandas_Learning&theme=material-palenight" />
+</a>
+<a href="https://github.com/Matplotlib_Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Matplotlib_Learning&theme=material-palenight" />
+</a>
+<h4>2. NLP:</h4>
+<a href="https://github.com/NLP_General">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=NLP_General&theme=swift " />
+</a>
+<a href="https://github.com/Tranformers_BERT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Tranformers_BERT&theme=swift " />
+</a>
+<a href="https://github.com/Recommendation-Systems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Recommendation-Systems&theme=swift " />
+</a>
+<h4>3. Image Processing:</h4>
 
+<h4>4. Reinforcement Learning:</h4>
+
+<h3>III. Other Application:</h3>
+<h4>1. Competitive Programming:</h4>
+  <a href="https://github.com/nermadie/CodeForces_Solutions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=CodeForces_Solutions&theme=default_repocard" />
+</a>
+<a href="https://github.com/nermadie/Algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Algorithms&theme=holi" />
+</a>
+<h4>2. Networking & Security:</h4>
+<a href="https://github.com/nermadie/DDoS_Detection_and_Mitigation_in_SDN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=DDoS_Detection_and_Mitigation_in_SDN&theme=prussian" />
+</a>
+<h4>3. Dev Tools & Utilities:</h4>
+  <a href="https://github.com/nermadie/Config_NVIM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Config_NVIM&theme=neon" />
+</a>
+<a href="https://github.com/nermadie/MyAHK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=MyAHK&theme=merko" />
+</a>
+<h4>4. University Project:</h4>
+  <a href="https://github.com/nermadie/PBL1-Graph-Vertex-Coloring">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=PBL1-Graph-Vertex-Coloring&theme=catppuccin_mocha" />
+</a>
+ <a href="https://github.com/nermadie/PBL2-Movies-Ticket-Booking-System-CLI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=PBL2-Movies-Ticket-Booking-System-CLI&theme=catppuccin_mocha" />
+</a>
+ <a href="https://github.com/nermadie/PBL3-Movies-Ticket-Booking-System-Winform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=PBL3-Movies-Ticket-Booking-System-Winform&theme=catppuccin_mocha" />
+</a>
+ <a href="https://github.com/nermadie/PBL4-Hand-Sign-Detector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=PBL4-Hand-Sign-Detector&theme=catppuccin_mocha" />
+</a>
+ <a href="https://github.com/nermadie/[PBL5](https://github.com/nermadie/PBL5-MOOC-Platform-Mobile-App)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=PBL5-MOOC-Platform-Mobile-App&theme=catppuccin_mocha" />
+</a>
+ <a href="https://github.com/Reading-Platform-with-RAG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=PBL6-Reading-Platform-with-RAG&theme=catppuccin_mocha" />
+</a>
+ <a href="https://github.com/PBL-7-Book-Recommendation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=PBL7-Book-Recommendation-System&theme=catppuccin_mocha" />
+</a>
+<a href="https://github.com/LTMNC_Text_To_Speech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=LTMNC_Text_To_Speech&theme=nord" />
+</a>
