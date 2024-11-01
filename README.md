@@ -1,4 +1,4 @@
-## WELCOME TO MY PAGE 👋👋👋
+![ClipWindowsGIF](https://github.com/user-attachments/assets/c50f1cfd-06d6-44c5-a096-e93aeea150b8)## WELCOME TO MY PAGE 👋👋👋
 My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Universiy of Technologies - Viet Nam). 
 <h3>😍I am interested in:</h3>
 <div>
@@ -76,7 +76,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 </a>
 
 <h2>🧑‍💻My Project:</h2>
-<h3>• Web Application:</h3>
+<h3>• ![WebDeveloperMycrxnGIF](https://github.com/user-attachments/assets/51478812-5d20-4ab7-84fc-bc214b3546ad) Web Application:</h3>
 <a href="https://github.com/nermadie/PBL5">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=PBL5&theme=highcontrast" />
 </a>
@@ -86,10 +86,11 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 <a href="https://github.com/nermadie/Translator_API">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Translator_API&theme=cobalt" />
 </a> 
-<h3>• Frontend:</h3>
-<h3>• Backend:</h3>
-<h3>• NoSQL:</h3>
-<h3>• Data Science:</h3>
+<h4>• Frontend:</h4>
+<h4>• Backend:</h4>
+<h4>• NoSQL:</h4>
+<h3>• AI Application:</h3>
+<h4>• AI, Data Science:</h4>
 <a href="https://github.com/uvipen/QuickDraw/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>    
@@ -104,7 +105,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
 </a>
 
-<h3>• AI:</h3>
+<h4>• NLP:</h4>
 <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
 </a>    
@@ -133,7 +134,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=SSD-pytorch&theme=gruvbox" />
 </a>
 
-<h3>• Machine Learning, Deep Learning:</h3>
+<h4>• Image Processing:</h4>
 <a href="https://github.com/uvipen/Contra-PPO-pytorch/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Contra-PPO-pytorch&theme=dark" />
 </a>    
@@ -154,4 +155,5 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 <a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
 </a> -->
+<h4>• Reinforcement Learning:</h4>
 
