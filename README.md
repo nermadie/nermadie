@@ -76,8 +76,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 </a>
 
 <h2>🧑‍💻My Project:</h2>
-<h3>• ![WebDeveloperMycrxnGIF](https://github.com/user-attachments/assets/51478812-5d20-4ab7-84fc-bc214b3546ad) 
-  Web Application:</h3>
+<h3>• Web Application:</h3>
 <a href="https://github.com/nermadie/PBL5">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=PBL5&theme=highcontrast" />
 </a>
