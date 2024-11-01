@@ -80,7 +80,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 <a href="https://github.com/nermadie/chat-app-with-firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=chat-app-with-firebase&theme=highcontrast" />
 </a>
-<a href="https://github.com/Reading-Platform-with-RAG">
+<a href="https://github.com/nermadie/Reading-Platform-with-RAG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Reading-Platform-with-RAG&theme=onedark" />
 </a>
 <a href="https://github.com/nermadie/Translator_API">
