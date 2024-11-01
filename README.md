@@ -84,7 +84,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Reading-Platform-with-RAG&theme=onedark" />
 </a>
 <a href="https://github.com/nermadie/Translator_API">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Translator_API&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Translator_API&theme=cobalt" />
 </a> 
 <h4>• Frontend:</h4>
 <h4>• Backend:</h4>
