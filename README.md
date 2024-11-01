@@ -80,13 +80,13 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 <h2>🧑‍💻My Project:</h2>
 <h3>I. Web Application:</h3>
 <a href="https://github.com/nermadie/chat-app-with-firebase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=chat-app-with-firebase&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=chat-app-with-firebase&theme=synthwave" />
 </a>
 <a href="https://github.com/Reading-Platform-with-RAG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Reading-Platform-with-RAG&theme=radical" />
 </a>
 <a href="https://github.com/nermadie/Translator_API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Translator_API&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Translator_API&theme=dracula" />
 </a>
 <h4>1. Frontend:</h4>
 <a href="https://github.com/nermadie/Evondev_Course">
