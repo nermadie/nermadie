@@ -77,11 +77,11 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 
 <h2>🧑‍💻My Project:</h2>
 <h3>• Web Application:</h3>
-<a href="https://github.com/nermadie/PBL5">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=PBL5&theme=highcontrast" />
+<a href="https://github.com/nermadie/chat-app-with-firebase">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=chat-app-with-firebase&theme=highcontrast" />
 </a>
-<a href="https://github.com/nermadie/Resume_Sgroup">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Resume_Sgroup&theme=onedark" />
+<a href="https://github.com/Reading-Platform-with-RAG">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Reading-Platform-with-RAG&theme=onedark" />
 </a>
 <a href="https://github.com/nermadie/Translator_API">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Translator_API&theme=cobalt" />
@@ -92,68 +92,68 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 <h3>• AI Application:</h3>
 <h4>• AI, Data Science:</h4>
 <a href="https://github.com/uvipen/QuickDraw/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=QuickDraw&theme=radical" />
 </a>    
 <a href="https://github.com/uvipen/ASCII-generator/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=ASCII-generator&theme=merko" />
 </a>
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
 </a>   
 <a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
 </a>
 
 <h4>• NLP:</h4>
 <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
 </a>    
 <a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
 </a>
 
 <a href="https://github.com/uvipen/AirGesture/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=AirGesture&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=AirGesture&theme=synthwave" />
 </a>    
 <a href="https://github.com/uvipen/Yolo-v2-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Yolo-v2-pytorch&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Yolo-v2-pytorch&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/uvipen/Hierarchical-attention-networks-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
 </a>    
 <a href="https://github.com/uvipen/Photomosaic-generator/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Photomosaic-generator&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Photomosaic-generator&theme=radical" />
 </a>
 
 <a href="https://github.com/uvipen/Street-fighter-A3C-ICM-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Street-fighter-A3C-ICM-pytorch&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Street-fighter-A3C-ICM-pytorch&theme=merko" />
 </a>    
 <a href="https://github.com/uvipen/SSD-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=SSD-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=SSD-pytorch&theme=gruvbox" />
 </a>
 
 <h4>• Image Processing:</h4>
 <a href="https://github.com/uvipen/Contra-PPO-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Contra-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Contra-PPO-pytorch&theme=dark" />
 </a>    
 <a href="https://github.com/uvipen/Deeplab-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Deeplab-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Deeplab-pytorch&theme=onedark" />
 </a>
 
 <a href="https://github.com/uvipen/Character-level-cnn-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Character-level-cnn-pytorch&theme=cobalt" />
 </a>    
 <a href="https://github.com/uvipen/Character-level-cnn-tensorflow/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-tensorflow&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Character-level-cnn-tensorflow&theme=synthwave" />
 </a>
 
 <a href="https://github.com/uvipen/Very-deep-cnn-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
 </a>    
 <a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
-</a> -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nermadie&repo=Very-deep-cnn-tensorflow&theme=dracula" />
+</a>
 <h4>• Reinforcement Learning:</h4>
 
