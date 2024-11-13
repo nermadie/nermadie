@@ -151,8 +151,8 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 <a href="https://github.com/Recommendation-Systems">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Recommendation-Systems&theme=swift" />
 </a>
-<a href="https://huggingface.co/spaces/nermadie/ViT5-base-text-summarize/tree/main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Recommendation-Systems&theme=swift" />
+<a href="https://github.com/nermadie/Text-Summarization_VNExpressDataset">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Text-Summarization_VNExpressDataset&theme=calm" />
 </a>
 <h4>3. Image Processing:</h4>
 
