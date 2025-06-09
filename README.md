@@ -207,7 +207,7 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
 <a href="https://github.com/LTMNC_Text_To_Speech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=LTMNC_Text_To_Speech&theme=nord" />
 </a>
-<h4>5. University Project:</h4>
+<h4>5. 3D Project:</h4>
 <a href="https://github.com/nermadie/Streetview-with-ThreeJs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Streetview-with-ThreeJs&theme=prussian" />
 </a>
