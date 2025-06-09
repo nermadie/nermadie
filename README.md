@@ -155,7 +155,9 @@ My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Univ
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nermadie&repo=Text-Summarization_VNExpressDataset&theme=calm" />
 </a>
 <h4>3. Image Processing:</h4>
-
+<a href="https://github.com/Leaf-Disease-Detection/LeafClassification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leaf-Disease-Detection&repo=LeafClassification&theme=calm" />
+</a>
 <h4>4. Reinforcement Learning:</h4>
 
 <h3>III. Other Application:</h3>
