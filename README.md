@@ -23,10 +23,14 @@ My name is Nhat Minh Tran🤓. University: 🏢DUT (Da Nang Universiy of Technol
 <h3>📃My github stats:</h3>
 <div>
   <picture>
-    <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=tokyonight&hide=contribs,prs,issues">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nermadie&show_icons=true&theme=default&hide=contribs,prs,issues">
   </picture>
+
   <picture>
-    <img alt="stats card" align="top" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true&hide=issues,contribs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true&hide=issues,contribs">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=nermadie&theme=default&show_icons=true&count_private=true&hide=issues,contribs">
+    <img align="top" alt="stats card" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nermadie&theme=cobalt&show_icons=true&count_private=true&hide=issues,contribs" />
   </picture>
 </div>
 
