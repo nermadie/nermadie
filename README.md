@@ -1,6 +1,6 @@
 ## WELCOME TO MY PAGE 👋👋👋
 
-My name is Nhat Minh Tran🤓. I’m currently studying in 🏢DUT (Da Nang Universiy of Technologies - Viet Nam).
+My name is Nhat Minh Tran🤓. University: 🏢DUT (Da Nang Universiy of Technologies - Viet Nam).
 
 <h3>😍I am interested in:</h3>
 <div>
