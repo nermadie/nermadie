@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Gradient banner">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2F80ED" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#56CCF2" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="blur" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+
+    <radialGradient id="spot" cx="25%" cy="25%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#g)"/>
+  <g filter="url(#blur)">
+    <circle cx="260" cy="90" r="130" fill="url(#spot)"/>
+    <circle cx="820" cy="70" r="160" fill="url(#spot)"/>
+  </g>
+</svg>
