@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <img src="assets/banner.svg" alt="Gradient Banner" width="100%" />
@@ -59,27 +60,25 @@
   <tr>
     <td align="center" width="25%">
       <strong>Backend Development</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,nestjs,python,flask,django" /><br/>
-      Java · Spring · Hibernate · Node.js<br/>
-      Express · NestJS · Python · Flask · Django
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs" />
+      <img src="https://skillicons.dev/icons?i=express,nestjs,python,flask" /><br/>
+      Java · Spring · Hibernate · Node.js · Express · NestJS · Python · Flask
     </td>
     <td align="center" width="25%">
       <strong>Frontend Development</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts" /><br/>
-      React · Next.js<br/>
-      HTML · CSS · JavaScript · TypeScript
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /><img src="https://skillicons.dev/icons?i=js,ts,sass,tailwind" />
+      <br/>
+      React · Next.js · HTML · CSS · JavaScript · TypeScript · Sass · Tailwind CSS
     </td>
     <td align="center" width="25%">
       <strong>AI & Machine Learning</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,huggingface,openai" /><br/>
-      TensorFlow · PyTorch · OpenCV · Scikit-learn<br/>
-      Hugging Face · OpenAI API · LLM Tooling
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" /><br/>
+      TensorFlow · PyTorch · OpenCV · Scikit-learn · LLM Tooling
     </td>
     <td align="center" width="25%">
       <strong>Mobile Development</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=androidstudio,react" /><br/>
-      Android Studio<br/>
-      React Native
+      Android Studio · React Native
     </td>
   </tr>
 </table>
@@ -90,21 +89,18 @@
   <tr>
     <td align="center" width="33%">
       <strong>Databases</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,neo4j" /><br/>
-      MySQL · PostgreSQL · MongoDB<br/>
-      Redis · Neo4j
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /><br/>
+      MySQL · PostgreSQL · MongoDB · Redis
     </td>
     <td align="center" width="33%">
       <strong>DevOps & Cloud</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions" /><br/>
-      Docker · AWS<br/>
-      Git · GitHub Actions
+      Docker · AWS · Git · GitHub Actions
     </td>
     <td align="center" width="33%">
       <strong>Tools & Editors</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=vim,vscode,idea,linux" /><br/>
-      Vim · VS Code · IntelliJ IDEA<br/>
-      Linux
+      Vim · VS Code · IntelliJ IDEA · Linux
     </td>
   </tr>
 </table>
@@ -119,25 +115,25 @@
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/nermadie/chat-app-with-firebase">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=chat-app-with-firebase&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Chat App" />
+        <a href="https://github.com/orgs/NutriPlan-Workspace/repositories">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Nutriplan_Meal_Planner_AI_AGENT&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Chat App" />
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/nermadie/Reading-Platform-with-RAG">
+        <a href="https://github.com/orgs/Reading-Platform-with-RAG/repositories">
           <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Reading-Platform-with-RAG&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Reading Platform" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <a href="https://github.com/nermadie/Translator_API">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Translator_API&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Translator API" />
+        <a href="https://github.com/orgs/LearningWebMinhTran/repositories">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Learning_Blog&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Translator API" />
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/nermadie/NodeJS">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=NodeJS&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="NodeJS" />
+        <a href="https://github.com/nermadie/chat-app-with-firebase">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=chat-app-with-firebase&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Chat App" />
         </a>
       </td>
     </tr>
@@ -211,19 +207,19 @@
       </td>
       <td width="50%">
         <a href="https://github.com/Reading-Platform-with-RAG">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Reading-Platform-with-RAG&repo=PBL6-Reading-Platform-with-RAG&theme=default&hide_border=true&title_color=9B51E0&text_color=434D58&icon_color=BB6BD9&bg_color=00000000" alt="PBL6 Reading Platform with RAG" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=PBL6-Reading-Platform-with-RAG&theme=default&hide_border=true&title_color=9B51E0&text_color=434D58&icon_color=BB6BD9&bg_color=00000000" alt="PBL6 Reading Platform with RAG" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <a href="https://github.com/PBL-7-Book-Recommendation">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PBL-7-Book-Recommendation&repo=PBL7-Book-Recommendation-System&theme=default&hide_border=true&title_color=9B51E0&text_color=434D58&icon_color=BB6BD9&bg_color=00000000" alt="PBL7 Book Recommendation System" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=PBL7-Book-Recommendation-System&theme=default&hide_border=true&title_color=9B51E0&text_color=434D58&icon_color=BB6BD9&bg_color=00000000" alt="PBL7 Book Recommendation System" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/LTMNC_Text_To_Speech">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LTMNC_Text_To_Speech&repo=LTMNC_Text_To_Speech&theme=default&hide_border=true&title_color=9B51E0&text_color=434D58&icon_color=BB6BD9&bg_color=00000000" alt="LTMNC Text To Speech" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=LTMNC_Text_To_Speech&theme=default&hide_border=true&title_color=9B51E0&text_color=434D58&icon_color=BB6BD9&bg_color=00000000" alt="LTMNC Text To Speech" />
         </a>
       </td>
     </tr>
@@ -233,9 +229,29 @@
 ### **IV. 3D Project**
 
 <div align="center">
-  <a href="https://github.com/nermadie/Streetview-with-ThreeJs">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Streetview-with-ThreeJs&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Streetview with ThreeJs" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/Streetview-with-ThreeJs">
+        	<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Streetview-with-ThreeJs&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Streetview with ThreeJs" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/nermadie/3DMesh">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=3DMesh&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Reading Platform" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/2.5D_Depth_Studio">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=2.5D_Depth_Studio&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Translator API" />
+        </a>
+      </td>
+      <td width="50%">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### **V. Specialized Development**
