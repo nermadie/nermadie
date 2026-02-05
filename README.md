@@ -285,12 +285,20 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/nermadie/Evondev_Course">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Evondev_Course&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nermadie/HTML_W3School">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=HTML_W3School&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/Evondev_Course">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Evondev_Course&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/nermadie/HTML_W3School">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=HTML_W3School&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 </details>
@@ -300,15 +308,28 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/nermadie/NestJS">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=NestJS&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nermadie/ASP_NET">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=ASP_NET&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nermadie/ASP_NET_Microservices">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=ASP_NET_Microservices&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/NestJS">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=NestJS&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/nermadie/ASP_NET">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=ASP_NET&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/ASP_NET_Microservices">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=ASP_NET_Microservices&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
+        </a>
+      </td>
+      <td width="50%"></td>
+    </tr>
+  </table>
 </div>
 
 </details>
@@ -318,18 +339,32 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/nermadie/Neo4j">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Neo4j&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nermadie/Elastic">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Elastic&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nermadie/MongoDB">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=MongoDB&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nermadie/Redis">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Redis&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/Neo4j">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Neo4j&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/nermadie/Elastic">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Elastic&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/MongoDB">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=MongoDB&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/nermadie/Redis">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Redis&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 </details>
@@ -339,15 +374,28 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/nermadie/DataPreprocessing">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=DataPreprocessing&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nermadie/WebScraping">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=WebScraping&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nermadie/DataAnalysis">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=DataAnalysis&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/DataPreprocessing">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=DataPreprocessing&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/nermadie/WebScraping">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=WebScraping&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/DataAnalysis">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=DataAnalysis&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" />
+        </a>
+      </td>
+      <td width="50%"></td>
+    </tr>
+  </table>
 </div>
 
 </details>
@@ -357,12 +405,20 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/nermadie/CodeForces_Solutions">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=CodeForces_Solutions&theme=default&hide_border=true&title_color=F2994A&text_color=434D58&icon_color=F2C94C&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nermadie/Algorithms">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Algorithms&theme=default&hide_border=true&title_color=F2994A&text_color=434D58&icon_color=F2C94C&bg_color=00000000" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/CodeForces_Solutions">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=CodeForces_Solutions&theme=default&hide_border=true&title_color=F2994A&text_color=434D58&icon_color=F2C94C&bg_color=00000000" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/nermadie/Algorithms">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Algorithms&theme=default&hide_border=true&title_color=F2994A&text_color=434D58&icon_color=F2C94C&bg_color=00000000" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 </details>
@@ -372,12 +428,20 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/nermadie/Config_NVIM">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Config_NVIM&theme=default&hide_border=true&title_color=F2994A&text_color=434D58&icon_color=F2C94C&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nermadie/MyAHK">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=MyAHK&theme=default&hide_border=true&title_color=F2994A&text_color=434D58&icon_color=F2C94C&bg_color=00000000" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/nermadie/Config_NVIM">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Config_NVIM&theme=default&hide_border=true&title_color=F2994A&text_color=434D58&icon_color=F2C94C&bg_color=00000000" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/nermadie/MyAHK">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=MyAHK&theme=default&hide_border=true&title_color=F2994A&text_color=434D58&icon_color=F2C94C&bg_color=00000000" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 </details>
@@ -391,20 +455,86 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/PBL-7-Book-Recommendation"><img src="https://img.shields.io/badge/Organization-PBL--7--Book--Recommendation-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Reading-Platform-with-RAG"><img src="https://img.shields.io/badge/Organization-Reading--Platform--with--RAG-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/CongNgheTriThucNC"><img src="https://img.shields.io/badge/Organization-CongNgheTriThucNC-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/KTPM-2024-Book-Recommendation"><img src="https://img.shields.io/badge/Organization-KTPM--2024--Book--Recommendation-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/EasyTourney"><img src="https://img.shields.io/badge/Organization-EasyTourney-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/TwitterClone-KTHDV"><img src="https://img.shields.io/badge/Organization-TwitterClone--KTHDV-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/LearningWebMinhTran"><img src="https://img.shields.io/badge/Organization-LearningWebMinhTran-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/ComputerVision-Workspace"><img src="https://img.shields.io/badge/Organization-ComputerVision--Workspace-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/NutriPlan-Workspace"><img src="https://img.shields.io/badge/Organization-NutriPlan--Workspace-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/LLMPlayground"><img src="https://img.shields.io/badge/Organization-LLMPlayground-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/MiAIProjects"><img src="https://img.shields.io/badge/Organization-MiAIProjects-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/NermadieLearningSpace"><img src="https://img.shields.io/badge/Organization-NermadieLearningSpace-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/ChatAppWorkspace"><img src="https://img.shields.io/badge/Organization-ChatAppWorkspace-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Leaf-Disease-Detection"><img src="https://img.shields.io/badge/Organization-Leaf--Disease--Detection-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <table>
+    <tr>
+      <th align="left">Organization</th>
+      <th align="left">Mô tả</th>
+      <th align="left">Tổ chức repo</th>
+      <th align="left">Hình dự án</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Reading-Platform-with-RAG">Reading-Platform-with-RAG</a></td>
+      <td>Nền tảng đọc + RAG/LLM. (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: client · server · rag/ollama · crawldata · infra. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CongNgheTriThucNC">CongNgheTriThucNC</a></td>
+      <td>Workspace môn/nhóm nghiên cứu. (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: assignments · reports · source · datasets. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EasyTourney">EasyTourney</a></td>
+      <td>Quản lý giải đấu/tournament. (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: app · admin · api · docs. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TwitterClone-KTHDV">TwitterClone-KTHDV</a></td>
+      <td>Clone Twitter cho mục đích học tập. (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: frontend · backend · db · deploy. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LearningWebMinhTran">LearningWebMinhTran</a></td>
+      <td>Workspace học web (practice). (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: FE exercises · mini-projects · notes. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ComputerVision-Workspace">ComputerVision-Workspace</a></td>
+      <td>Các project/thử nghiệm Computer Vision. (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: datasets · training · inference · notebooks. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NutriPlan-Workspace">NutriPlan-Workspace</a></td>
+      <td>Hệ sinh thái NutriPlan (app + AI). (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: FE · BE · LLM server · data pipeline. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LLMPlayground">LLMPlayground</a></td>
+      <td>Thử nghiệm prompt/LLM tooling. (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: experiments · eval · utils · docs. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MiAIProjects">MiAIProjects</a></td>
+      <td>Nhóm project AI nhỏ/learning. (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: per-topic repos (cv/nlp/tabular) + shared utils. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NermadieLearningSpace">NermadieLearningSpace</a></td>
+      <td>Kho học tập tổng hợp. (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: notes · roadmaps · code-snippets. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ChatAppWorkspace">ChatAppWorkspace</a></td>
+      <td>Workspace các dự án chat app. (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: client · server · realtime/db · deployment. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Leaf-Disease-Detection">Leaf-Disease-Detection</a></td>
+      <td>Phát hiện/bệnh lá cây (CV/ML). (Cập nhật mô tả chi tiết)</td>
+      <td>Ví dụ: dataset · training · inference · report. (Cập nhật theo thực tế)</td>
+      <td><!-- TODO: Add project image --></td>
+    </tr>
+  </table>
 </div>
 
 </details>
