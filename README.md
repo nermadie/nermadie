@@ -155,11 +155,6 @@
           <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Reading-Platform-with-RAG&repo=Ollama_RAG&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Chat App" />
         </a>
       </td>
-			<td width="50%">
-        <a href="https://github.com/NutriPlan-Workspace/Nutriplan_LLM_Server">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=NutriPlan-Workspace&repo=Nutriplan_LLM_Server&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Chat App" />
-        </a>
-      </td>
 		</tr>
     <tr>
       <td width="50%">
