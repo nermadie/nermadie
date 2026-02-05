@@ -115,20 +115,20 @@
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/orgs/NutriPlan-Workspace/repositories">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Nutriplan_Meal_Planner_AI_AGENT&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Chat App" />
+        <a href="https://github.com/NutriPlan-Workspace/NutriPlan_FE">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=NutriPlan-Workspace&repo=NutriPlan_FE&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Chat App" />
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/orgs/Reading-Platform-with-RAG/repositories">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Reading-Platform-with-RAG&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Reading Platform" />
+        <a href="https://github.com/Reading-Platform-with-RAG/Reading-Platform-FE-client">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Reading-Platform-with-RAG&repo=Reading-Platform-FE-client&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Reading Platform" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <a href="https://github.com/orgs/LearningWebMinhTran/repositories">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Learning_Blog&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Translator API" />
+        <a href="https://github.com/LearningWebMinhTran/LearningWeb_FE">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LearningWebMinhTran&repo=LearningWeb_FE&theme=default&hide_border=true&title_color=2F80ED&text_color=434D58&icon_color=56CCF2&bg_color=00000000" alt="Translator API" />
         </a>
       </td>
       <td width="50%">
@@ -144,6 +144,23 @@
 
 <div align="center">
   <table>
+		<tr>
+			<td width="50%">
+        <a href="https://github.com/NutriPlan-Workspace/Nutriplan_LLM_Server">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=NutriPlan-Workspace&repo=Nutriplan_LLM_Server&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Chat App" />
+        </a>
+      </td>
+			<td width="50%">
+        <a href="https://github.com/Reading-Platform-with-RAG/Ollama_RAG">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Reading-Platform-with-RAG&repo=Ollama_RAG&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Chat App" />
+        </a>
+      </td>
+			<td width="50%">
+        <a href="https://github.com/NutriPlan-Workspace/Nutriplan_LLM_Server">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=NutriPlan-Workspace&repo=Nutriplan_LLM_Server&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Chat App" />
+        </a>
+      </td>
+		</tr>
     <tr>
       <td width="50%">
         <a href="https://github.com/Leaf-Disease-Detection/LeafClassification">
@@ -151,20 +168,32 @@
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/nermadie/NLP_General">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=NLP_General&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="NLP General" />
+        <a href="https://github.com/nermadie/DDoS_Detection_and_Mitigation_in_SDN">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=DDoS_Detection_and_Mitigation_in_SDN&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="NLP General" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <a href="https://github.com/nermadie/Tranformers_BERT">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Tranformers_BERT&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Transformers BERT" />
+        <a href="https://github.com/nermadie/Self-Driving-Cars-Reinforcement-Learning">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Self-Driving-Cars-Reinforcement-Learning&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Transformers BERT" />
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/nermadie/Recommendation-Systems">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Recommendation-Systems&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Recommendation Systems" />
+        <a href="https://github.com/nermadie/Text-Summarization_VNExpressDataset">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nermadie&repo=Text-Summarization_VNExpressDataset&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Recommendation Systems" />
+        </a>
+      </td>
+    </tr>
+		<tr>
+      <td width="50%">
+        <a href="https://github.com/Reading-Platform-with-RAG/Crawldata">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Reading-Platform-with-RAG&repo=Crawldata&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Transformers BERT" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/NutriPlan-Workspace/NutriPlan_Data_Manipulate">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=NutriPlan-Workspace&repo=NutriPlan_Data_Manipulate&theme=default&hide_border=true&title_color=27AE60&text_color=434D58&icon_color=6FCF97&bg_color=00000000" alt="Recommendation Systems" />
         </a>
       </td>
     </tr>
